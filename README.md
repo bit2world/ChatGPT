@@ -245,19 +245,3 @@ yarn build
 - [The distDir configuration is set to "../dist" but this path doesn't exist](https://github.com/lencx/ChatGPT/discussions/180)
 - [Error A public key has been found, but no private key. Make sure to set TAURI_PRIVATE_KEY environment variable.](https://github.com/lencx/ChatGPT/discussions/182)
 
-## ❤️ Thanks
-
-- The core implementation of the share button code was copied from the [@liady](https://github.com/liady) extension with some modifications.
-- Thanks to the [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) repository for inspiring the custom command function for this application.
-
----
-
-[![Star History Chart](https://api.star-history.com/svg?repos=lencx/chatgpt&type=Timeline)](https://star-history.com/#lencx/chatgpt&Timeline)
-
-<img width="180" src="https://user-images.githubusercontent.com/16164244/207228300-ea5c4688-c916-4c55-a8c3-7f862888f351.png"> <img width="200" src="https://user-images.githubusercontent.com/16164244/207228025-117b5f77-c5d2-48c2-a070-774b7a1596f2.png">
-
-<a href="https://t.zsxq.com/0bQikmcVw"><img width="360" src="./assets/zsxq.png"></a>
-
-## License
-
-Apache License
